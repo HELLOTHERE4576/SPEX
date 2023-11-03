@@ -17,7 +17,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 TICKET_CATEGORY_NAME = "Tickets"
 HELPER_ROLE_NAME = "Helper"
 ticket_holders = set()
-Token = 'MTE2NTcwMjgwNzAxMDE1NjU3NA.Gzl3tW.1VWOyH24gX2EG3ANZuKnugd5BhmZGx2gA8hvy0'
+Token = ''
 
 PERMISSION_ROLE_ID = 1163855249585483926
 
